@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-  float x, y;-20
+  float x, y;
 
   printf("Введіть значення x: ");
   scanf("%f", &x);
