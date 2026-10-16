@@ -6,7 +6,7 @@ int main() {
   printf("Введіть значення x: ");
   scanf("%f", &x);
 
-  if (x < -19) {-
+  if (x < -19) {
           y =  (2 * x * x * x) + (8 * x * x);
             printf("f(x) = %f\n", y);
   } else {
